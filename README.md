@@ -1,4 +1,4 @@
-# NTU_jpeg_decoder
+# NTU_IT_jpeg_decoder
 
 ## Files
 1. src/decoder.c: jpeg decoder source code
